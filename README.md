@@ -1,6 +1,6 @@
 # Real Time Hand Gesture Recognition using OpenCV
 
-**Hope you guys will like this app ! Show some ❤️ and star the repo to support the project !**
+**Hope you guys will like this project ! Show some ❤️ and star the repo to support the project !**
 <br>
 ## Experiemntal Results
 <img src="https://github.com/Akash-Gupta-2000/Real-Time-hand-Gesture-Recognition-using-OpenCV/blob/master/images/1.png">
